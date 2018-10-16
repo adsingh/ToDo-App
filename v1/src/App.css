@@ -1,0 +1,32 @@
+.App {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+li {
+  padding: 5px 0;
+  text-align: left;
+}
+
+input{
+  padding: 7px;
+  width: 70%;
+  border: 1px solid rgb(214, 144, 13);
+  outline: none;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  background: none;
+  border: 1px solid rgb(34, 211, 202);
+  padding: 7px;
+  margin-left: 10px;
+  border-radius: 5px;
+  outline: none;
+}
+
+button:hover {
+  background-color: aquamarine;
+}
